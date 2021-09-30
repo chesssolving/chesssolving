@@ -1,0 +1,9 @@
+# Site settings
+title: Chess solving
+author:
+  name: chess solving
+  email: chesssolving@gmail.com
+description: "static chess puzzles."
+
+# Build settings
+remote_theme: jekyll/minima
